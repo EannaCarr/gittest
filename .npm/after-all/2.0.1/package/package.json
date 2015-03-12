@@ -1,0 +1,37 @@
+{
+  "name": "after-all",
+  "version": "2.0.1",
+  "description": "Execute several async functions and get a callback when they are all done",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": "https://github.com/sorribas/after-all.git",
+  "scripts": {
+    "test": "tape test"
+  },
+  "author": "Eduardo Sorribas <eduardo@sorribas.org> (http://sorribas.org/)",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^2.13.3"
+  },
+  "dependencies": {
+    "once": "^1.3.0"
+  },
+  "testling": {
+    "files": "test/index.js",
+    "browsers": [
+      "ie/8..latest",
+      "firefox/17..latest",
+      "firefox/nightly",
+      "chrome/22..latest",
+      "chrome/canary",
+      "opera/12..latest",
+      "opera/next",
+      "safari/5.1..latest",
+      "ipad/6.0..latest",
+      "iphone/6.0..latest",
+      "android-browser/4.2..latest"
+    ]
+  }
+}
