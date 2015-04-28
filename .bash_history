@@ -570,3 +570,6 @@ cd ionic-assignment
 ls -al
 cd www
 nano index.html
+ls -al
+cd ionic-assignment
+ionic serve
