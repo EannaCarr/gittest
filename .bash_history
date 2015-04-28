@@ -331,3 +331,242 @@ npm install -g ionic
 cd ionic-counter
 ls
 ionic serve
+git clone git@github.com:ianmcloughlin/ionic-dice.git rolldice
+ls
+cd rolldice
+ls
+pws
+pwd
+ls
+ionic serve 
+rm -R .git
+ionic start myRollDice blank
+ls -al
+git add .
+git init
+git add .
+git commit -m 'My First Commit'
+git remote add origin https://github.com/EannaCarr/rollDiceAngular.git
+git remote -v
+git pull https://github.com/EannaCarr/rollDiceAngular.git
+git push origin master
+git pull https://github.com/EannaCarr/rollDiceAngular.git
+Pull is not possible because you have unmerged files.
+cd www
+ls -al
+nano index,html
+nano index.html
+git pull https://github.com/EannaCarr/rollDiceAngular.git
+git add .
+nano
+git commit -m 'My First Commit'
+git commit -m 'My second Commit'
+cd
+ls al
+ls -al
+cd rolldice
+ls
+cd myRollDice
+ls
+ls -al
+git add .
+git commit -m 'My third Commit'
+cd www
+ls -al
+nano index.html
+git commit -m 'My third Commit'
+git add .
+git commit -m 'minor change'
+nano index.html
+git add www/index.html
+pwd
+git add rolldice/myRollDice/www/index.html
+cd
+ls -al
+cd rolldice
+ls -al
+cd myRollDice
+ls -al
+git init
+git commit -m 'my third commit'
+git remote add origin https://github.com/EannaCarr/rollDiceAngular.git
+git remote -v
+git pull https://github.com/EannaCarr/rollDiceAngular.git
+git push origin master
+ls -al
+cd www
+nano index.html
+git add www/index.html
+pwd
+git add rolldice/myRollDice/www/index.html
+git add index.html
+git commit -m 'Added a title'
+git push origin master
+cd.
+cd .
+cd
+ionic start testGit sidemenu
+cd testgit
+ls -al
+git init
+ls -al
+git add .
+cd
+azureuser@eannacarr:~/rolldice/myRollDice/www$
+ls -al
+git commit -m 'fith commit'
+git remote add origin https://github.com/EannaCarr/gittest.git
+git remote -v
+git pull https://github.com/EannaCarr/gittest.git
+git push origin master
+
+cd testgit
+cd testGit
+cd www
+nano index.html
+cd
+git add testGit/www/index.html
+git commit -m 'added a title' 
+git push origin master
+git clone git@github.com:EannaCarr/cavamenu.git mycavamenu
+git clone https://github.com/EannaCarr/ionic-assignment.git
+ls -al
+cd ionic assignment
+cd ionic-assignment
+ls -al
+ionic serve ionic-assignment
+cd www
+cd
+cd ionic-assignment
+ionic serve
+cd
+ls -al
+cd todoproject
+ionic serve
+ls -al
+ionic-assignment
+cd ionic-assignment
+ls -al
+cd www
+ls -al
+nano index.html
+mk dir images
+mkdir images
+ls -al
+cd images
+la -al
+cd
+cd ionic-assignment
+cd www
+nano index.html
+push origin master
+git push origin master
+history
+git add .
+git commit -m 'added some code'
+git push origin master
+cd
+git clone https://github.com/EannaCarr/todoProject.git todoproject
+pscp -U
+pscp eannacarr.jpg azureuser@eannacarr.cloudapp.net:todoproject/www/img
+cd..desktop
+pscp eannacarr.jpg azureuser@eannacarr.cloudapp.net:\\Gwscistud\stud\G00286975\Documents\Downloads/mcfly.jpg
+cd desktop
+cd..desktop
+cd
+cd desktop
+cd..desktop
+pscp eannacarr.jpg azureuser@eannacarr.cloudapp.net:\\Gwscistud\stud\G00286975\Documents\Downloads/mcfly.jpg
+sudo apt-get install putty-tools
+ls -al
+cd todoproject
+ls -al
+cd www
+ls -al
+cd img
+ls -al
+git add .
+git commit -m 'added some code'
+git push origin master
+cd
+ls -al
+cd todoproject
+ls -al
+cd www
+ls -al
+cd
+cd todoproject
+ionic serve todoproject
+q
+ls -al
+cd
+ls -al
+cd ionic-assignment
+ls-al
+ls -al
+ionic serve ionic-assignment
+r
+cd
+ionic serve ionic-assignment
+cd ionic-assignment
+ionic serve ionic-assignment
+cd todoproject
+cd www
+nano index.html
+cd
+cd ionic-assignment
+ls -al
+cd www
+nano index.html
+fg
+ls -al
+ionic serve ionic-assignment
+cd ionic-assignment
+ionic serve ionic-assignment
+q
+quit
+cd
+cd ionic-counter
+ionic serve ionic-counter
+cd ionic-assignment
+ionic serve ionic-assignment
+q
+quit
+q
+quit
+r
+sudo apt-get install littler
+quit
+cd
+cd ionic-counter
+ionic serve ionic-counter
+ionic serve
+cd
+cd ionic-assignment
+ionic serve
+ls -al
+cd ionic-counter
+ls -al
+ionic serve
+r
+cd ionic-assignment
+cd www
+ls -al
+nano index.html
+cd ionic-assignment
+ionic serve
+g
+goto
+ionic serve
+cd ionic-assignment
+cd www
+nano
+cd
+cd ionic-assignment
+ionic serve
+ls -al
+cdcd ionic-assignment
+cd ionic-assignment
+ls -al
+cd www
+nano index.html
